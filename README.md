@@ -55,6 +55,11 @@ O projeto foi construído seguindo rigorosos padrões técnicos:
 ![Tela Principal](https://github.com/user-attachments/assets/23de72ba-284a-45a3-a29b-3f43e7b83a7e)
 *Exibe a listagem com ícones de status e cores dos veículos.*
 
+### Tela Cadastro/Lista Clientes 
+![Tela Cadastro Cliente](https://github.com/user-attachments/assets/69cbb2c8-6903-4e43-850a-d311b7e8ad4c)
+*Exibe a lista de clientes cadastrados, e os botoes "NOVO", "EDITAR" E "EXCLUIR" cliente cadastrado.*
+
+
 ### Cadastro de Aluguel
 ![Cadastro Aluguel](https://github.com/user-attachments/assets/b9827f78-29ff-485d-be68-656afcd76f6a)
 *Demonstração dos componentes DatePicker e validação de campos.*
