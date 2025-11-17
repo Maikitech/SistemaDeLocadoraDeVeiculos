@@ -57,7 +57,6 @@ O projeto foi construído seguindo rigorosos padrões técnicos:
 
 ### Cadastro de Aluguel
 ![Cadastro Aluguel](https://github.com/user-attachments/assets/b9827f78-29ff-485d-be68-656afcd76f6a)
-)
 *Demonstração dos componentes DatePicker e validação de campos.*
 
 ## 🤖 Uso de Inteligência Artificial
