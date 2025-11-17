@@ -52,14 +52,11 @@ O projeto foi construído seguindo rigorosos padrões técnicos:
 ## 📸 Screenshots
 
 ### Tela Principal (Listagem de Aluguéis)
-![Tela Principal](![<<img width="1260" height="862" alt="Captura de tela 2025-11-17 104723" src="https://github.com/user-attachments/assets/23de72ba-284a-45a3-a29b-3f43e7b83a7e" /}>
-    >
-]()
-)
+![Tela Principal](https://github.com/user-attachments/assets/23de72ba-284a-45a3-a29b-3f43e7b83a7e)
 *Exibe a listagem com ícones de status e cores dos veículos.*
 
 ### Cadastro de Aluguel
-![Cadastro Aluguel](caminho/para/sua/imagem_cadastro.png)
+![Cadastro Aluguel](LINK_DA_SUA_SEGUNDA_IMAGEM_AQUI)
 *Demonstração dos componentes DatePicker e validação de campos.*
 
 ## 🤖 Uso de Inteligência Artificial
