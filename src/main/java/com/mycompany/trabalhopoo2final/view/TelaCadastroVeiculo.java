@@ -181,38 +181,30 @@ public class TelaCadastroVeiculo extends javax.swing.JDialog {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnSalvarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSalvarActionPerformed
-       String placa = txtPlaca.getText().trim();
+String placa = txtPlaca.getText().trim();
         String marca = txtMarca.getText().trim();
         String modelo = txtModelo.getText().trim();
         String anoStr = txtAno.getText().trim();
         String cor = txtCor.getText().trim();
 
-        // (Validações)
-        if (!placa.matches("^[A-Z]{3}[0-9][A-Z0-9][0-9]{2}$") && !placa.matches("^[A-Z]{3}[0-9]{4}$")) {
+        if (!placa.matches("^[A-Z]{3}[0-9][A-Z0-9][0-9]{2}$")) {
              JOptionPane.showMessageDialog(this, "Placa inválida! Use o formato ABC1234 ou ABC1D23.", "Erro", JOptionPane.WARNING_MESSAGE);
             return;
         }
+
         if (marca.isEmpty() || modelo.isEmpty() || anoStr.isEmpty()) {
             JOptionPane.showMessageDialog(this, "Marca, Modelo e Ano são obrigatórios!", "Erro", JOptionPane.WARNING_MESSAGE);
             return;
         }
 
         try {
-            //
-            // --- ESTA É A CORREÇÃO ---
-            //
             // 1. Verifica se estamos em modo de EDIÇÃO
             Veiculo veiculo;
             if (veiculoParaEditar != null) {
-                // Se sim, usa o objeto existente (que já tem o ID)
                 veiculo = veiculoParaEditar;
             } else {
-                // Se não, cria um objeto novo
                 veiculo = new Veiculo();
             }
-            //
-            // --- FIM DA CORREÇÃO ---
-            //
 
             // 2. Define os dados no objeto
             veiculo.setPlaca(placa.toUpperCase());
