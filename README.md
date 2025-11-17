@@ -74,6 +74,7 @@ O projeto foi construído seguindo rigorosos padrões técnicos:
 O sistema utiliza o Hibernate para mapear as seguintes entidades para o banco de dados:
 
 ![Diagrama ER](https://github.com/user-attachments/assets/2abcf3f3-038b-4b5c-bd3f-11a4770e880d)
+
 *Estrutura do banco de dados com relacionamentos (1:N) entre Usuário, Veículo e Aluguel.*
 
 
