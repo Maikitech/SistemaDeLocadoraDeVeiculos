@@ -56,7 +56,7 @@ O projeto foi construído seguindo rigorosos padrões técnicos:
 *Exibe a listagem com ícones de status e cores dos veículos.*
 
 ### Cadastro de Aluguel
-![Cadastro Aluguel](<img width="1254" height="865" alt="image" src="https://github.com/user-attachments/assets/b9827f78-29ff-485d-be68-656afcd76f6a" />
+![Cadastro Aluguel](https://github.com/user-attachments/assets/b9827f78-29ff-485d-be68-656afcd76f6a)/>
 )
 *Demonstração dos componentes DatePicker e validação de campos.*
 
