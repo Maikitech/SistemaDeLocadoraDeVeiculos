@@ -52,7 +52,8 @@ O projeto foi construído seguindo rigorosos padrões técnicos:
 ## 📸 Screenshots
 
 ### Tela Principal (Listagem de Aluguéis)
-![Tela Principal](![<img width="1256" height="868" alt="image" src="https://github.com/user-attachments/assets/5bb7ce0a-d17f-40e4-b1a2-a9a2b360b8f3" />
+![Tela Principal](![<<img width="1260" height="862" alt="Captura de tela 2025-11-17 104723" src="https://github.com/user-attachments/assets/23de72ba-284a-45a3-a29b-3f43e7b83a7e" />
+    >
 ]()
 )
 *Exibe a listagem com ícones de status e cores dos veículos.*
