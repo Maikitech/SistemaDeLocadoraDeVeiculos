@@ -57,11 +57,11 @@ O projeto foi construído seguindo rigorosos padrões técnicos:
 
 ### Tela Cadastro/Lista Clientes 
 ![Tela Cadastro Cliente](https://github.com/user-attachments/assets/69cbb2c8-6903-4e43-850a-d311b7e8ad4c)
-*Exibe a lista de clientes cadastrados, e os botoes "NOVO", "EDITAR" E "EXCLUIR" Cliente cadastrado.*
+*Exibe a lista de clientes cadastrados e os botões "NOVO", "EDITAR" e "EXCLUIR".*
 
-###Tela cadastro de Veículos
+### Tela Cadastro de Veículos
 ![Tela Cadastro de Veículos](https://github.com/user-attachments/assets/7ce70df2-79f5-4f7c-9ec1-1e9fb197d115)
-*Exibe a lista de Veículos cadastrados, e os botoes "NOVO", "EDITAR" E "EXCLUIR" Veículo cadastrado.*
+*Exibe a lista de Veículos cadastrados e os botões "NOVO", "EDITAR" e "EXCLUIR".*
 
 ### Cadastro de Aluguel
 ![Cadastro Aluguel](https://github.com/user-attachments/assets/b9827f78-29ff-485d-be68-656afcd76f6a)
